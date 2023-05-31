@@ -1,0 +1,11 @@
+{
+  "name": "modular-disc-bot",
+  "version": "1.0.0",
+  "description": "A modular discord bot ready to add or implement features.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nathan Marsh",
+  "license": "ISC"
+}
